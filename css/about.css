@@ -1,0 +1,84 @@
+.about {
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 50px;
+}
+.about h3 {
+  background-color: palevioletred;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 0 20px;
+}
+.about h1 {
+  color: palevioletred;
+  text-align: center;
+}
+.about p {
+  color: black;
+}
+.about .about {
+  margin: 60px 0 60px 0;
+}
+.about .about .main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-line-pack: justify;
+      align-content: space-between;
+}
+.about .about .main .photo {
+  width: 540px;
+  height: 400px;
+  background-image: url("../images/mission.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about .about .main .photo1 {
+  width: 540px;
+  height: 400px;
+  background-image: url("../images/vision.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about .about .main .about-text {
+  width: 50%;
+  padding-left: 50px;
+  font-size: 15px;
+}
+.about .about .main .about-text h2 {
+  margin-top: 0px;
+  color: palevioletred;
+  text-align: center;
+}
+.about .about .main .about-text p {
+  color: black;
+}
+.about .about .main .about-text1 {
+  width: 50%;
+  padding-right: 50px;
+  font-size: 15px;
+}
+.about .about .main .about-text1 h2 {
+  margin-top: 0px;
+  color: palevioletred;
+  text-align: center;
+}
+.about .about .main .about-text1 p {
+  color: black;
+}

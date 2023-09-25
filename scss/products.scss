@@ -1,0 +1,549 @@
+.pro{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 100px;
+
+    h1{
+        text-align: center;
+        color: palevioletred;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+.flo{
+   
+   
+    .items{
+       
+     width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+
+    .product1:hover{
+        transform: scale(1.2); 
+    }
+    .product2:hover{
+        transform: scale(1.2); 
+    }
+    .product3:hover{
+        transform: scale(1.2); 
+    }
+    .product4:hover{
+        transform: scale(1.2); 
+    }
+    .product5:hover{
+        transform: scale(1.2); 
+    }
+    .product6:hover{
+        transform: scale(1.2); 
+    }
+    .product7:hover{
+        transform: scale(1.2); 
+    }
+    .product8:hover{
+        transform: scale(1.2); 
+    }
+    .product9:hover{
+        transform: scale(1.2); 
+    }
+    .product10:hover{
+        transform: scale(1.2); 
+    }
+    .product11:hover{
+        transform: scale(1.2); 
+    }
+    .product12:hover{
+        transform: scale(1.2); 
+    }
+    
+    button{
+        width: 150px;
+        height: 30px;
+        background-color: palevioletred;
+        color: #fff;
+        border: palevioletred;
+        font: 15px;
+        display: flex;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        margin-left: 40px;
+        margin-top: 10px;
+    }
+    button:hover{
+        background-color: #fcfcfc;
+        border: 1px solid palevioletred;
+        color: palevioletred;
+    }
+        .product1{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+ //   background-color: #f0f0f0;
+    background-image: url("../images/flower1.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+    
+    
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+        
+       
+        .product2{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+   // background-color: #f0f0f0;
+    background-image: url("../images/flower2.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+        .product3{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+  //  background-color: #f0f0f0;
+    background-image: url("../images/flower3.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+        .product4{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+  //  background-color: #f0f0f0;
+    background-image: url("../images/flower4.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+        .product5{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+   // background-color: #f0f0f0;
+    background-image: url("../images/flower5.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+        .product6{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+   // background-color: #f0f0f0;
+    background-image: url("../images/flower6.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+        .product7{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+   // background-color: #f0f0f0;
+    background-image: url("../images/flower7.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+        .product8{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+    //background-color: #f0f0f0;
+    background-image: url("../images/flower8.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+        .product9{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+  //  background-color: #f0f0f0f0;
+    background-image: url("../images/flower9.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+    
+    
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+        .product10{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+   // background-color: #f0f0f0;
+    background-image: url("../images/flower10.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+    
+    
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+        .product11{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+   // background-color: #f0f0f0;
+    background-image: url("../images/flower11.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+    
+    
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+        .product12{
+            width: 250px;
+            height: 400px;
+            background-color: #fcfcfc;
+            transition: transform .3s all ease-in-out;
+    
+    
+            .container{
+    margin: 20px;
+                .img{
+    width: 100%;
+    height: 250px;
+   // background-color: #f0f0f0;
+    background-image: url("../images/flower12.jpg");
+      background-repeat: no-repeat;
+     background-size:contain;
+    }
+    
+    
+                .info{
+                    
+                    h4{
+                        font-size: 15px;
+                        color: #000000;
+                    text-align: center;
+                    margin-top: 3px;
+                    }
+                    p{
+                        color: rgb(216, 98, 138);
+                        font-size: 15px;
+                        margin-bottom: 3px;
+                    }
+                    .icons{
+                        color: palevioletred;
+    
+                    }
+                }
+            }
+           
+        }
+    }
+}
+}

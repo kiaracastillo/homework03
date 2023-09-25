@@ -1,0 +1,1 @@
+import{changePage}from"./model.js";function route(){let e=window.location.hash,o=e.replace("#",""),n=o.split("/");console.log("hash ",e),console.log("page name "+o),console.log("sub page name ",n),changePage(n)}function initListeners(){console.log("hello")}function initSite(){$(window).on("hashchange",route),route()}$(document).ready((function(){initListeners(),initSite()}));

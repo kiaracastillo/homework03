@@ -1,0 +1,87 @@
+.staff{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+    margin-bottom: 200px;
+
+
+
+    h1{
+        color: palevioletred;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .sta{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        display: flex;
+            align-content: center;
+                justify-content: space-between;
+        margin-bottom: 300px;
+       
+        .envi{
+            width: 270px;
+            height: 150px;
+            margin-top: 50px;
+    
+            h2{
+                text-align: center;
+                color: palevioletred;
+    
+            }
+            p{
+                text-align: center;
+                color: rgb(0, 0, 0);
+            }
+    
+            .ser1{
+    width: 200px;
+    height: 200px;
+    //background-color: antiquewhite;
+    background-image: url("../images/pamela.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    border-radius: 120px;
+    
+            }
+            .ser2{
+                width: 200px;
+                height: 200px;
+                margin-left: 30px;
+             //   background-color: antiquewhite;
+                background-image: url("../images/carlos.jpeg");
+                background-repeat: no-repeat;
+                background-size: cover;
+                margin-bottom: 15px;
+                border-radius: 120px;
+            }
+            .ser3{
+                width: 200px;
+                height: 200px;
+                margin-left: 30px;
+               // background-color: antiquewhite;
+                background-image: url("../images/carol.jpeg");
+                background-repeat: no-repeat;
+                background-size: cover;
+                margin-bottom: 15px;
+                border-radius: 120px;
+            }
+            .ser4{
+                width: 200px;
+                height: 200px;
+                margin-left: 30px;
+               // background-color: antiquewhite;
+                background-image: url("../images/luis.jpeg");
+                background-repeat: no-repeat;
+                background-size: cover;
+                margin-bottom: 15px;
+                border-radius: 120px;
+            }
+            
+        }
+    }
+    
+}

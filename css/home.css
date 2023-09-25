@@ -1,0 +1,169 @@
+.home .site-wrapper .hero {
+  height: 630px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.63)), to(rgba(0, 0, 0, 0.5))), url(../images/hero.jpeg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.5)), url(../images/hero.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: -30px;
+}
+.home .site-wrapper .hero .callout {
+  color: rgb(255, 255, 255);
+  margin: auto;
+  text-align: center;
+}
+.home .site-wrapper .hero .callout button {
+  height: 30px;
+  width: 150px;
+  margin-top: 25px;
+  background-color: palevioletred;
+  color: #fff;
+  border: palevioletred;
+}
+.home .site-wrapper .hero .callout button:hover {
+  height: 30px;
+  width: 150px;
+  margin-top: 25px;
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+  border: solid 1px palevioletred;
+}
+.home .add {
+  height: 430px;
+  background-image: url(../images/BANNER-PROMOCIONES-EN.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.home .title h1 {
+  color: palevioletred;
+  text-align: center;
+}
+.home .occa {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 80px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.home .occa .oc1 {
+  width: 250px;
+  height: 300px;
+  background-color: #212121;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: 0 20px 0 20px;
+  background-image: url("../images/LOVE-ROMANCE.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.home .occa .oc2 {
+  width: 250px;
+  height: 300px;
+  background-color: #212121;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: 0 20px 0 20px;
+  background-image: url("../images/CUMPLE-EN-CARRUSEL.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.home .occa .oc3 {
+  width: 250px;
+  height: 300px;
+  background-color: #212121;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: 0 20px 0 20px;
+  background-image: url("../images/NACIMIENTO-EN-CARRUSEL.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.home .occa .oc4 {
+  width: 250px;
+  height: 300px;
+  background-color: #212121;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: 0 20px 0 20px;
+  background-image: url("../images/Screenshot (220).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.home .env {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 80px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.home .env .envi {
+  width: 270px;
+  height: 150px;
+}
+.home .env .envi h2 {
+  text-align: center;
+  color: palevioletred;
+}
+.home .env .envi p {
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+.home .env .envi .ser1 {
+  width: 270px;
+  height: 80px;
+  background-image: url("../images/enviado-1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 100px;
+}
+.home .env .envi .ser2 {
+  width: 270px;
+  height: 80px;
+  margin-left: 100px;
+  background-image: url("../images/enviado-2.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.home .env .envi .ser3 {
+  width: 270px;
+  height: 80px;
+  margin-left: 100px;
+  background-image: url("../images/enviado-3.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.home .env .envi .ser4 {
+  width: 270px;
+  height: 80px;
+  margin-left: 100px;
+  background-image: url("../images/enviado-4.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}

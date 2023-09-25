@@ -1,0 +1,316 @@
+.wig .items {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 50px;
+}
+.wig .items .product1:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+.wig .items .product2:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+.wig .items .product3:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+.wig .items .product4:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+.wig .items .product5:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+.wig .items .product6:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+.wig .items .product7:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+.wig .items .product8:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+.wig .items .product1 {
+  width: 250px;
+  height: 380px;
+  background-color: #ffffff;
+  -webkit-transition: -webkit-transform 0.3s all ease-in-out;
+  transition: -webkit-transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out, -webkit-transform 0.3s all ease-in-out;
+}
+.wig .items .product1 .container {
+  margin: 20px;
+}
+.wig .items .product1 .container .img {
+  width: 100%;
+  height: 250px;
+  background-color: #ffffff;
+  background-image: url("../images/wig 1.webp");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.wig .items .product1 .container .info h4 {
+  font-size: 15px;
+  color: #7e7e7e;
+  text-align: center;
+  margin-top: 3px;
+}
+.wig .items .product1 .container .info p {
+  color: #f19caf;
+  font-size: 15px;
+  margin-bottom: 3px;
+}
+.wig .items .product1 .container .info .icons {
+  color: #6b1c2d;
+}
+.wig .items .product2 {
+  width: 250px;
+  height: 380px;
+  background-color: #ffffff;
+  -webkit-transition: -webkit-transform 0.3s all ease-in-out;
+  transition: -webkit-transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out, -webkit-transform 0.3s all ease-in-out;
+}
+.wig .items .product2 .container {
+  margin: 20px;
+}
+.wig .items .product2 .container .img {
+  width: 100%;
+  height: 250px;
+  background-color: #ffffff;
+  background-image: url("../images/wig 2.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.wig .items .product2 .container .info h4 {
+  font-size: 15px;
+  color: #7e7e7e;
+  text-align: center;
+  margin-top: 3px;
+}
+.wig .items .product2 .container .info p {
+  color: #f19caf;
+  font-size: 15px;
+  margin-bottom: 3px;
+}
+.wig .items .product2 .container .info .icons {
+  color: #f19caf;
+}
+.wig .items .product3 {
+  width: 250px;
+  height: 380px;
+  background-color: #ffffff;
+  -webkit-transition: -webkit-transform 0.3s all ease-in-out;
+  transition: -webkit-transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out, -webkit-transform 0.3s all ease-in-out;
+}
+.wig .items .product3 .container {
+  margin: 20px;
+}
+.wig .items .product3 .container .img {
+  width: 100%;
+  height: 250px;
+  background-color: #ffffff;
+  background-image: url("../images/wig 3.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.wig .items .product3 .container .info h4 {
+  font-size: 15px;
+  color: #7e7e7e;
+  text-align: center;
+  margin-top: 3px;
+}
+.wig .items .product3 .container .info p {
+  color: #f19caf;
+  font-size: 15px;
+  margin-bottom: 3px;
+}
+.wig .items .product3 .container .info .icons {
+  color: #f19caf;
+}
+.wig .items .product4 {
+  width: 250px;
+  height: 380px;
+  background-color: #ffffff;
+  -webkit-transition: -webkit-transform 0.3s all ease-in-out;
+  transition: -webkit-transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out, -webkit-transform 0.3s all ease-in-out;
+}
+.wig .items .product4 .container {
+  margin: 20px;
+}
+.wig .items .product4 .container .img {
+  width: 100%;
+  height: 250px;
+  background-color: #ffffff;
+  background-image: url("../images/wig 4.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.wig .items .product4 .container .info h4 {
+  font-size: 15px;
+  color: #7e7e7e;
+  text-align: center;
+  margin-top: 3px;
+}
+.wig .items .product4 .container .info p {
+  color: #f19caf;
+  font-size: 15px;
+  margin-bottom: 3px;
+}
+.wig .items .product4 .container .info .icons {
+  color: #f19caf;
+}
+.wig .items .product5 {
+  width: 250px;
+  height: 380px;
+  background-color: #ffffff;
+  -webkit-transition: -webkit-transform 0.3s all ease-in-out;
+  transition: -webkit-transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out, -webkit-transform 0.3s all ease-in-out;
+}
+.wig .items .product5 .container {
+  margin: 20px;
+}
+.wig .items .product5 .container .img {
+  width: 100%;
+  height: 250px;
+  background-color: #ffffff;
+  background-image: url("../images/wig 5.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.wig .items .product5 .container .info h4 {
+  font-size: 15px;
+  color: #7e7e7e;
+  text-align: center;
+  margin-top: 3px;
+}
+.wig .items .product5 .container .info p {
+  color: #f19caf;
+  font-size: 15px;
+  margin-bottom: 3px;
+}
+.wig .items .product5 .container .info .icons {
+  color: #f19caf;
+}
+.wig .items .product6 {
+  width: 250px;
+  height: 380px;
+  background-color: #ffffff;
+  -webkit-transition: -webkit-transform 0.3s all ease-in-out;
+  transition: -webkit-transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out, -webkit-transform 0.3s all ease-in-out;
+}
+.wig .items .product6 .container {
+  margin: 20px;
+}
+.wig .items .product6 .container .img {
+  width: 100%;
+  height: 250px;
+  background-color: #ffffff;
+  background-image: url("../images/wig 6.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.wig .items .product6 .container .info h4 {
+  font-size: 15px;
+  color: #7e7e7e;
+  text-align: center;
+  margin-top: 3px;
+}
+.wig .items .product6 .container .info p {
+  color: #f19caf;
+  font-size: 15px;
+  margin-bottom: 3px;
+}
+.wig .items .product6 .container .info .icons {
+  color: #f19caf;
+}
+.wig .items .product7 {
+  width: 250px;
+  height: 380px;
+  background-color: #ffffff;
+  -webkit-transition: -webkit-transform 0.3s all ease-in-out;
+  transition: -webkit-transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out, -webkit-transform 0.3s all ease-in-out;
+}
+.wig .items .product7 .container {
+  margin: 20px;
+}
+.wig .items .product7 .container .img {
+  width: 100%;
+  height: 250px;
+  background-color: #ffffff;
+  background-image: url("../images/wig 7.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.wig .items .product7 .container .info h4 {
+  font-size: 15px;
+  color: #7e7e7e;
+  text-align: center;
+  margin-top: 3px;
+}
+.wig .items .product7 .container .info p {
+  color: #f19caf;
+  font-size: 15px;
+  margin-bottom: 3px;
+}
+.wig .items .product7 .container .info .icons {
+  color: #f19caf;
+}
+.wig .items .product8 {
+  width: 250px;
+  height: 380px;
+  background-color: #ffffff;
+  -webkit-transition: -webkit-transform 0.3s all ease-in-out;
+  transition: -webkit-transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out;
+  transition: transform 0.3s all ease-in-out, -webkit-transform 0.3s all ease-in-out;
+}
+.wig .items .product8 .container {
+  margin: 20px;
+}
+.wig .items .product8 .container .img {
+  width: 100%;
+  height: 250px;
+  background-color: #ffffff;
+  background-image: url("../images/wig 8.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.wig .items .product8 .container .info h4 {
+  font-size: 15px;
+  color: #7e7e7e;
+  text-align: center;
+  margin-top: 3px;
+}
+.wig .items .product8 .container .info p {
+  color: #f19caf;
+  font-size: 15px;
+  margin-bottom: 3px;
+}
+.wig .items .product8 .container .info .icons {
+  color: #f19caf;
+}

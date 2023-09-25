@@ -1,0 +1,88 @@
+.about{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+
+    h3{
+        background-color: palevioletred;
+        width: 150px;
+        height: 50px;
+        text-align: center;
+        align-content: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 0 20px; 
+
+    }
+h1{
+    color: palevioletred;
+    text-align: center;
+}
+p{
+    color: black;
+}
+
+.about{
+    margin: 60px 0 60px 0;
+    
+    
+    .main{
+        display: flex;
+        flex-direction: row;
+        align-content: space-between;
+
+        .photo{
+            width: 540px;
+            height: 400px;
+          //  background-color: rgb(99, 92, 117);
+            background-image: url("../images/mission.png");
+        background-repeat: no-repeat;
+        background-size:cover;
+            
+        }
+        .photo1{
+            width: 540px;
+            height: 400px;
+          //  background-color: rgb(99, 92, 117);
+            background-image: url("../images/vision.jpeg");
+        background-repeat: no-repeat;
+        background-size:cover;
+            
+        }
+
+        .about-text{
+            width: 50%;
+            padding-left: 50px;
+            
+            font-size:  15px;
+            h2{
+                margin-top: 0px;
+                color: palevioletred;
+                text-align: center;
+            }
+            p{
+                color: black;
+            }
+            }      
+
+            .about-text1{
+                width: 50%;
+               padding-right: 50px;
+                
+                font-size:  15px;
+                h2{
+                    margin-top: 0px;
+                    color: palevioletred;
+                    text-align: center;
+                }
+                p{
+                    color: black;
+                }
+                }  
+        }
+    }
+
+
+    
+}
