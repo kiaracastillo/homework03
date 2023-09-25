@@ -8,4 +8,7 @@
 - You can create any page and design that you like but you must have five pages and they must contain images and text. Lorem is fine to use. 
 - Make sure your folder structure is organized and that you style this using scss.
 - Upload this to the web 4 server and to Github as well. Remember to add to. your Readme file and put the link to Web 4 inside the Readme file. 
-- Submit the Github link to this assignment. 
+- Submit the Github link to this assignment.
+
+# Url: https://in-info-web4.informatics.iupui.edu/~kicastil/homework03/
+# https://in-info-web4.informatics.iupui.edu/~kicastil/homework03/index.html
